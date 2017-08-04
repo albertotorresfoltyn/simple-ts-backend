@@ -1,0 +1,17 @@
+{
+  "name": "simple-ts-backend",
+  "version": "0.0.1",
+  "description": "A simple Backend with typescript support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Torres",
+  "license": "MIT",
+  "dependencies": {
+    "@types/body-parser": "^1.16.4",
+    "@types/express": "^4.0.36",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
